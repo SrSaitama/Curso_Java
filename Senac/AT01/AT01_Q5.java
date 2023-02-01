@@ -1,3 +1,13 @@
+/*Monte um programa Java que mostre na tela em formato de tabela os
+quartos ocupados e os desocupados. Considere que o hotel tem quatro
+andares e três quartos por andar. Primeiro, o usuário registrará os quartos
+ocupados, informando para cada ocupação o número do apartamento
+(andares de 1 a 4 e números de quarto de 1 a 3). O programa deverá
+questionar “Deseja informar outra ocupação? (S/N)” e o usuário poderá
+informar quantos quartos quiser, até que responda “N” a essa pergunta.
+Em seguida, o programa mostrará uma tabela, em que o primeiro andar é
+o inferior e o último é o superior, marcando com X o quarto ocupado.*/
+
 package Senac.AT01;
 
 import java.util.Scanner;

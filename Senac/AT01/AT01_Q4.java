@@ -1,3 +1,16 @@
+/*Monte um algoritmo em que o usuário poderá cadastrar e pesquisar
+hóspedes. O algoritmo deve oferecer um menu com três opções ao
+usuário: 1- cadastrar; 2- pesquisar; 3- sair. A opção “cadastrar” deve
+permitir que o usuário informe um nome de hóspede, gravando-o em
+memória (máximo de 15 cadastros; caso atinja essa quantidade, o
+programa deve mostrar “Máximo de cadastros atingido”). A opção
+“pesquisar” deve permitir que o usuário informe um nome e, caso seja
+encontrado um nome exatamente igual, mostre a mensagem “Hóspede
+(nome) foi encontrado no índice (índice onde foi cadastrado)”. Se o nome
+não foi encontrado, o programa deve mostrar “Hóspede não encontrado”.
+O algoritmo deve permitir que o usuário realize essas operações repetidas
+vezes, até que use a opção “3”, que encerra o algoritmo.*/
+
 package Senac.AT01;
 
 import java.util.Scanner;

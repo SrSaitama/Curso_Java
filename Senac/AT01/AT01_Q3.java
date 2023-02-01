@@ -1,3 +1,14 @@
+/*Escreva um programa Java que receba o valor padrão de uma diária e,
+em seguida, receba vários nomes de hóspedes e suas idades. Caso o
+hóspede tenha idade menor que 4 anos, ele não paga hospedagem
+(nesse caso, o programa deve mostrar na tela “(Nome do hóspede) possui
+gratuidade”); mas, se o hóspede tiver mais de 80 anos, ele paga metade
+(o programa deve mostrar na tela “(Nome do hóspede) paga meia”). O
+usuário informará hóspedes até digitar a palavra “PARE”, que interrompe
+a entrada de dados. Ao fim, o programa deve mostrar a quantidade de
+gratuidades, a quantidade de meias hospedagens e o valor total,
+considerando todos os hóspedes informados.*/
+
 package Senac.AT01;
 
 import java.util.Scanner;
