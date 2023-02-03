@@ -1,4 +1,4 @@
-package Java.Senac.Exemplos.Herenca;
+package Senac.Exemplos.Herenca;
 
 public class Pessoa {
     

@@ -1,4 +1,4 @@
-package Java.Senac.Exemplos.Herenca;
+package Senac.Exemplos.Herenca;
 
 import java.util.Locale;
 
@@ -28,8 +28,7 @@ public class Programa {
          pessoa.dadosPessoais();
          /*A única maneira de ver os dados privados da classe Pessoa é 
          instanciando a própria classe Pessoa*/
-        
-        
+               
     }
     
 }
