@@ -34,7 +34,7 @@ public class FunHorista extends Funcionario{
     public void aplicarAumento(double percentual){        
         double aumento = (percentual / 100) * pagamento;
         
-        System.out.println("O funcionário "
+        System.out.println("O funcionário(a) "
                                 + "\nNome: " + nome
                   + "\nTeve um aumento de: " + aumento
          + "\nAgora ele(a) deverá receber: " + (aumento + pagamento));

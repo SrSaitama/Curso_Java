@@ -1,4 +1,4 @@
-package Java.Senac.AT03_2;
+package Senac.AT03_2;
 
 import java.util.Scanner;
 
