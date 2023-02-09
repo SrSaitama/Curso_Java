@@ -1,4 +1,4 @@
-package Senac.Exemplos.Abstracao;
+package Senac.Conteudo.Abstracao;
 
 public abstract class Veiculo {
 

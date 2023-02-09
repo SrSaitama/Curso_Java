@@ -1,4 +1,4 @@
-package Senac.Exemplos.Herenca;
+package Senac.Conteudo.Herenca;
 
 import java.util.Locale;
 
