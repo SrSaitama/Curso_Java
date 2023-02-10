@@ -18,7 +18,7 @@ public class Aluno extends Pessoa {
     
     public void dadosAluno2() {
         System.out.println("Aluno: " + nome + ", matricula: " + numMatricula
-                            + ", saldo: " + saldo);
+                            + ", saldo: " /*+ saldo*/);
     }   
     /*Como na classe "MÃE" essa variável "saldo" é PRIVATE ela não pode ser executada
     aqui*/
