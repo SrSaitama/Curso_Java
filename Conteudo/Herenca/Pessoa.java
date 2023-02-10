@@ -1,4 +1,4 @@
-package Senac.Conteudo.Herenca;
+package Conteudo.Herenca;
 
 public class Pessoa {
     

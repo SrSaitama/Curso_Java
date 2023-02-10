@@ -1,4 +1,4 @@
-package Senac.Conteudo.Abstracao;
+package Conteudo.Abstracao;
 
 public class Locacao extends Veiculo {
     
